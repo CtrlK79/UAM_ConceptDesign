@@ -11,4 +11,4 @@ Even though we took conservative strategy while calculating the manufacturing co
 
 My professor's feedback was like 'The motivation is interesting but the L/D is set to be too optimisitc considering the structure'(it means that the number of the lift rotors, 12, is quite many so it would undermine the aerodynamic performance while cruising).
 
-All the considerations can be found in our final report.
+All the details can be found in our final report.
