@@ -3,6 +3,8 @@ This repository is about the concept design project in the International Summer 
 
 It is not my own work, but with my 2 of team members. Our team name was FLY.
 
+I mainly contributed to the rotor design, motivation and the mission profile.
+
 It contains the simple code we used while designing our UAM as well as the report and the presentation materials.
 
 We set motivation and then approximated the design paramters through the simple physics and mathematics.
