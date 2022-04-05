@@ -9,7 +9,7 @@ It contains the simple code we used while designing our UAM as well as the repor
 
 We set motivation and then approximated the design paramters through the simple physics and mathematics.
 
-Even though we took conservative strategy while calculating the manufacturing cost and operating cost, our mission profile was satisfied.
+Even though we took conservative strategy while calculating the manufacturing cost and operating cost, the profit goal was achieved.
 
 My professor's feedback was like 'The motivation is interesting but the L/D is set to be too optimisitc considering the structure'(it means that the number of the lift rotors, 12, is quite many so it would undermine the aerodynamic performance while cruising).
 
