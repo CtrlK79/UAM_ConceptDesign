@@ -1,7 +1,7 @@
 # UAM_ConceptDesign
 This repository is about the concept design project in the International Summer Program of SNU, 'Multi-Disciplinary Design for Urban Air Mobility'
 
-It is not my own work, but with my 2 of team members. Our team name was FLY.
+It is not my own work, but with my 2 of my team members. Our team name was FLY.
 
 I mainly contributed to the rotor design, motivation and the mission profile.
 
